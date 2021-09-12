@@ -1,0 +1,5 @@
+Fixed issues in Quiz application 
+Read different articles on redux 
+Implemented redux on existing Quiz application
+Learned about Redux actions, store and reducer
+Used redux-devtool extention in chrome to track redux flow
